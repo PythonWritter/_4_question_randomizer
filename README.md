@@ -8,7 +8,7 @@ Python 3.10+
 
 ### Functions of manager
 - Get questions and answer on them
-- All of the above? may occur in random
+- All of the above, may occur in random
 
 ### Repository Content
 File - questions.json
